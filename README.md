@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hugo Seigle
 
-<!--
-**HugoSEIGLE/HugoSeigle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm Hugo, a dedicated and professional web developer specializing in Symfony, PHP, and JavaScript. With a robust modern web technologies, I am passionate about building responsive and efficient web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🌍 Based in France
+- 💼 SAM Outillage
+- 📚 Continuously learning and improving my skills
+
+## Technologies & Tools
+- **Frameworks:** Symfony, React
+- **Languages:** PHP, JavaScript, Typescript
+- **Tools:** ESLINT, phpstan, Elasticsearch, GrumPHP, CS FIXER
+
+## Connect with Me
+- 💬 Ask me about web development, Symfony, or any tech-related stuff.
+- 📫 How to reach me: hugo.seigle03@gmail.com
+- 📄 My website: [Hugo Seigle](https://www.hugo-seigle.fr/)
+
+## Show Support
+- ⭐️ If you like what I do, star some of my repositories!
