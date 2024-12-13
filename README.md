@@ -15,7 +15,6 @@ Welcome to my GitHub profile! I'm Hugo, a dedicated and professional web develop
 ## Technologies & Tools
 - **Frameworks:** Symfony, React
 - **Languages:** PHP, JavaScript, Typescript
-- **Tools:** ESLINT, phpstan, Elasticsearch, GrumPHP, CS FIXER
 
 ## Connect with Me
 - 💬 Ask me about web development, Symfony, or any tech-related stuff.
