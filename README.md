@@ -1,11 +1,16 @@
-# Hugo Seigle
+# Welcome to my GitHub Profile 🚀
 
-![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 📊 GitHub Stats
+![HugoSEIGLE's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoSEIGLE&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=HugoSEIGLE&theme=radical)
 
-Welcome to my GitHub profile! I'm Hugo, a dedicated and professional web developer specializing in Symfony, PHP, and JavaScript. With a robust modern web technologies, I am passionate about building responsive and efficient web applications.
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoSEIGLE&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HugoSEIGLE&theme=onedark)
+
+
 
 ## About Me
 - 🌍 Based in France
