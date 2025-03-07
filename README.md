@@ -19,7 +19,6 @@
 
 ## 📊 GitHub Stats
 ![HugoSEIGLE's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoSEIGLE&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=HugoSEIGLE&theme=radical)
 
 ## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoSEIGLE&layout=compact&theme=radical)
