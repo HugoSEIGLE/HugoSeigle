@@ -16,12 +16,3 @@
 
 ## Show Support
 - ⭐️ If you like what I do, star some of my repositories!
-
-## 📊 GitHub Stats
-![HugoSEIGLE's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoSEIGLE&show_icons=true&theme=radical)
-
-## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoSEIGLE&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HugoSEIGLE&theme=onedark)
