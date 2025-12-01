@@ -7,7 +7,7 @@
 
 ## Technologies & Tools
 - **Frameworks:** Symfony, React
-- **Languages:** PHP, JavaScript, Typescript
+- **Languages:** PHP, JavaScript, Typescript, Nuxt
 
 ## Connect with Me
 - 💬 Ask me about web development, Symfony, or any tech-related stuff.
