@@ -40,15 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HugoSEIGLE&show_icons=true&theme=tokyonight&hide_border=true" alt="Hugo's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoSEIGLE&layout=compact&theme=tokyonight&hide_border=true" alt="Hugo's top languages" />
-</p>
-
----
-
 ## 🧰 My Projects
 
 ### 🔹 Highlighted Work
