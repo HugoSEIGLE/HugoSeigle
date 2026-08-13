@@ -1,67 +1,113 @@
-<h1 align="center">Hi there, I'm Hugo Seigle 👋</h1>
-<h3 align="center">Full-Stack Web Developer • Symfony | Vue/Nuxt | React</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.hugo-seigle.fr/">🌐 Portfolio</a> •
-  <a href="mailto:hugo.seigle03@gmail.com">📧 Email</a> •
-  <a href="https://github.com/HugoSEIGLE">🐙 GitHub</a>
-</p>
+# Hugo Seigle
+
+### Full-Stack Developer
+
+Symfony · Vue / Nuxt · React · TypeScript · Three.js · GSAP
+
+<br>
+
+<a href="https://www.hugo-seigle.fr/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+<a href="TON_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Hugo_Seigle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+## About
+
+Full-stack developer based in France, currently working at **SAM Outillage**.
+
+I build modern web applications, internal tools and interactive digital experiences — from Symfony backends to Vue/Nuxt applications and creative experiences with Three.js & GSAP.
+
+<br>
+
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,symfony,js,ts,vue,nuxt,react,threejs,rust,docker,linux,git,gitlab&perline=13" />
+
+</div>
+
+<br>
+
+## GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoSEIGLE&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoSEIGLE&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HugoSEIGLE&hide_border=true&background=00000000" />
+
+</div>
+
+<br>
+
+## Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HugoSEIGLE&bg_color=00000000&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+<br>
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/HugoSEIGLE/HugoSEIGLE/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+
+</div>
+
+<br>
+
+## What I work with
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white">
+<img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=000">
+<img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+
+</div>
+
+<br>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-- 🇫🇷 Based in France  
-- 💼 Currently working at **SAM Outillage**  
-- 🔧 Passionate about building efficient, scalable, and user-friendly web applications  
-- 📚 Always learning new technologies and improving my craft  
-- 🎯 Focused on clean code, good architecture, and automation  
+### Building web experiences from backend architecture to interactive 3D.
 
----
+<a href="https://www.hugo-seigle.fr/">Portfolio</a>
+&nbsp;•&nbsp;
+<a href="TON_LINKEDIN">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="mailto:hugo.seigle03@gmail.com">Email</a>
 
-## 🛠️ Technologies & Tools
+<br><br>
 
-### **Languages**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=HugoSEIGLE&style=flat-square&label=PROFILE+VIEWS" />
 
-### **Frameworks**
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00D09F?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### **Tools & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
-
----
-
-## 🧰 My Projects
-
-### 🔹 Highlighted Work
-- **Symfony applications** for enterprise environments  
-- **Nuxt & Tauri kiosk application** for industrial use  
-- **Freelance websites** (vitrine & e-commerce)  
-- **Automation scripts & monitoring** with Zabbix, Linux, CI/CD  
-
-⭐ *Check my pinned repos below to see more!*
-
----
-
-## 🤝 Connect With Me
-
-- 💬 Ask me anything about **web development, Symfony, Vue/Nuxt, Docker**  
-- 📫 Reach me at **hugo.seigle03@gmail.com**  
-- 🌐 Portfolio → **https://www.hugo-seigle.fr/**  
-
----
-
-## ⭐ Show Support
-
-If you like my work, feel free to **star my repositories** or **follow me**!  
-Your support helps me keep building useful and innovative projects 🚀
-
+</div>
