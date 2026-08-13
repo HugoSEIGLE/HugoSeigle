@@ -2,48 +2,47 @@
 
 # Hugo Seigle
 
-### Full-Stack Developer
+### Full-Stack Developer · Creative Web Developer
 
-Symfony · Vue / Nuxt · React · TypeScript · Three.js · GSAP
+Symfony · Vue · Nuxt · React · TypeScript · Three.js · GSAP
 
 <br>
 
-<a href="https://www.hugo-seigle.fr/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-<a href="TON_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Hugo_Seigle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+🌐 [hugo-seigle.fr](https://www.hugo-seigle.fr/)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+💼 [LinkedIn](TON_LINKEDIN)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+✉️ [Email](mailto:hugo.seigle03@gmail.com)
 
 </div>
 
 <br>
 
-## About
+---
+
+## ✦ About
 
 Full-stack developer based in France, currently working at **SAM Outillage**.
 
-I build modern web applications, internal tools and interactive digital experiences — from Symfony backends to Vue/Nuxt applications and creative experiences with Three.js & GSAP.
+I build modern applications and interactive web experiences with a strong focus on performance, architecture and motion.
 
 <br>
 
-## Stack
+## ✦ Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,symfony,js,ts,vue,nuxt,react,threejs,rust,docker,linux,git,gitlab&perline=13" />
+<img src="https://skillicons.dev/icons?i=php,symfony,js,ts,vue,nuxt,react,threejs,rust,docker,linux,git,gitlab&theme=dark&perline=13" />
 
 </div>
 
 <br>
 
-## GitHub
+## ✦ GitHub Overview
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoSEIGLE&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoSEIGLE&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HugoSEIGLE&theme=github_dark" width="100%" />
 
 </div>
 
@@ -51,44 +50,58 @@ I build modern web applications, internal tools and interactive digital experien
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HugoSEIGLE&hide_border=true&background=00000000" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HugoSEIGLE&theme=github_dark" height="170" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HugoSEIGLE&theme=github_dark" height="170" />
 
 </div>
 
 <br>
 
-## Activity
+## ✦ Languages
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HugoSEIGLE&bg_color=00000000&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HugoSEIGLE&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HugoSEIGLE&theme=github_dark&utcOffset=2" />
 
 </div>
 
 <br>
 
-## Contribution Snake
+## ✦ Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HugoSEIGLE/HugoSEIGLE/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HugoSEIGLE&bg_color=0d1117&color=c084fc&line=22d3ee&point=f472b6&area_color=8b5cf6&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
 
 </div>
 
 <br>
 
-## What I work with
+## ✦ Technologies
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white">
-<img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=000">
-<img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Symfony-0D1117?style=for-the-badge&logo=symfony&logoColor=white" />
+<img src="https://img.shields.io/badge/Nuxt-0D1117?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82" />
+<img src="https://img.shields.io/badge/Vue-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=threedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-0D1117?style=for-the-badge&logo=greensock&logoColor=88CE02" />
+<img src="https://img.shields.io/badge/Tauri-0D1117?style=for-the-badge&logo=tauri&logoColor=FFC131" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+
+</div>
+
+<br>
+
+## ✦ Current Focus
+
+<div align="center">
+
+**Creative Development** · **WebGL** · **Three.js** · **GSAP** · **Software Architecture**
 
 </div>
 
@@ -98,16 +111,10 @@ I build modern web applications, internal tools and interactive digital experien
 
 <div align="center">
 
-### Building web experiences from backend architecture to interactive 3D.
+### Creating performant, interactive and memorable digital experiences.
 
-<a href="https://www.hugo-seigle.fr/">Portfolio</a>
-&nbsp;•&nbsp;
-<a href="TON_LINKEDIN">LinkedIn</a>
-&nbsp;•&nbsp;
-<a href="mailto:hugo.seigle03@gmail.com">Email</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=HugoSEIGLE&style=flat-square&label=PROFILE+VIEWS" />
+[hugo-seigle.fr](https://www.hugo-seigle.fr/)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+[LinkedIn](TON_LINKEDIN)
 
 </div>
