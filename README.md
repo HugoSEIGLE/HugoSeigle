@@ -54,38 +54,6 @@ I build modern applications and interactive web experiences with a strong focus 
 
 <br>
 
-## ✦ GitHub Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HugoSEIGLE&theme=github_dark" width="100%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HugoSEIGLE&theme=github_dark" height="170" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HugoSEIGLE&theme=github_dark" height="170" />
-
-</div>
-
-<br>
-
-## ✦ Languages
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HugoSEIGLE&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HugoSEIGLE&theme=github_dark&utcOffset=2" />
-
-</div>
-
-<br>
-
 ## ✦ Activity
 
 <div align="center">
