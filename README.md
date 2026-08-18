@@ -9,21 +9,21 @@ Symfony · Vue · Nuxt · React · TypeScript · Three.js · GSAP
 <br>
 
 <p align="center">
-  <a href="https://www.hugo-seigle.fr/">
+  <a target="__blank" href="https://www.hugo-seigle.fr/">
     <img
       src="https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"
       alt="Portfolio"
     />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/hugo-seigle-developpeur/">
+  <a target="__blank" href="https://www.linkedin.com/in/hugo-seigle-developpeur/">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
   &nbsp;
-  <a href="mailto:hugo.seigle03@gmail.com">
+  <a target="__blank" href="mailto:hugo.seigle03@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-Contact-F43F5E?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
