@@ -53,13 +53,4 @@ I build modern applications and interactive web experiences with a strong focus 
 </div>
 
 <br>
-
-## ✦ Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HugoSEIGLE&bg_color=0d1117&color=c084fc&line=22d3ee&point=f472b6&area_color=8b5cf6&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
-
-</div>
-
 </div>
