@@ -16,7 +16,7 @@ Symfony · Vue · Nuxt · React · TypeScript · Three.js · GSAP
     />
   </a>
   &nbsp;
-  <a href="TON_LINKEDIN">
+  <a href="https://www.linkedin.com/in/hugo-seigle-developpeur/">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
